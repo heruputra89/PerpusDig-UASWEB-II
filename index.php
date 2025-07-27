@@ -216,7 +216,7 @@ $conn->close();
                                 <div class="d-flex justify-content-center justify-content-md-start flex-shrink-0 mb-4">
                                     <a data-bs-toggle="modal"
                                         data-bs-target="#youTubeModal"
-                                        data-theVideo="https://www.youtube.com/embed/AjL-z5yqL0c?si=DGAwvAn5AcHzZ2R5" class="btn btn-light rounded-pill py-3 px-4 px-md-5 me-2" href="#"><i class="fas fa-play-circle me-2"></i> Lihat Video</a>
+                                        data-theVideo="https://www.youtube.com" class="btn btn-light rounded-pill py-3 px-4 px-md-5 me-2" href="#"><i class="fas fa-play-circle me-2"></i> Lihat Video</a>
                                     <a class="btn btn-dark rounded-pill py-3 px-4 px-md-5 ms-2" href="auth-login.php">Masuk</a>
                                 </div>
                             </div>
