@@ -238,7 +238,7 @@ $conn->close();
                       <div class="card-body">
                         <h5 class="card-title text-primary">Selamat Datang <?php echo htmlspecialchars($_SESSION['nama']); ?>! 🎉</h5>
                         <p class="mb-4">
-                          Selamat datang di situs <span class="fw-bold">PusDig</span> (Perpustakaan Digital) Kelas XII-1 MAN Sidoarjo
+                          Selamat datang di situs <span class="fw-bold">PusDig</span> (Perpustakaan Digital) UNSIA
                         </p>
                       </div>
                     </div>
@@ -299,12 +299,12 @@ $conn->close();
             <footer class="content-footer footer bg-footer-theme">
               <div class="container-xxl d-flex flex-wrap justify-content-between py-2 flex-md-row flex-column">
                 <div class="mb-2 mb-md-0">
-                  © XII - 1
+                  ©
                   <script>
                     document.write(new Date().getFullYear());
                   </script>
                   , made with ❤️ by
-                  <a href="https://instagram.com/_ghulamc_" target="_blank" class="footer-link fw-bolder">Ghulamin Chalim Alwi</a>
+                  <a href="https://instagram.com/herusaputra.89" target="_blank" class="footer-link fw-bolder">Heru Saputra</a>
                 </div>
 
               </div>

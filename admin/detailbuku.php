@@ -279,7 +279,7 @@ if (isset($_GET['id']) && !empty($_GET['id'])) {
                     document.write(new Date().getFullYear());
                   </script>
                   , made with ❤️ by
-                  <a href="https://instagram.com/_ghulamc_" target="_blank" class="footer-link fw-bolder">Ghulamin Chalim Alwi</a>
+                  <a href="https://instagram.com/herusaputra.89" target="_blank" class="footer-link fw-bolder">Heru Saputra</a>
                 </div>
 
               </div>

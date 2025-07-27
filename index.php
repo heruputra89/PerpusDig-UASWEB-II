@@ -77,17 +77,17 @@ $conn->close();
                 <div class="col-lg-8 text-center text-lg-start mb-lg-0">
                     <div class="d-flex flex-wrap">
                         <div class="border-end border-primary pe-3">
-                            <a href="#" class="text-muted small"><i class="fas fa-map-marker-alt text-primary me-2"></i>XII - 1 | MAN SIDOARJO</a>
+                            <a href="#" class="text-muted small"><i class="fas fa-map-marker-alt text-primary me-2"></i>UNSIA</a>
                         </div>
                         <div class="ps-3">
-                            <a href="mailto:sebelasmansda@gmail.com" class="text-muted small"><i class="fas fa-envelope text-primary me-2"></i>sebelasmansda@gmail.com</a>
+                            <a href="mailto:put3ra.heru@gmail.com" class="text-muted small"><i class="fas fa-envelope text-primary me-2"></i>sebelasmansda@gmail.com</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 text-center text-lg-end">
                     <div class="d-flex justify-content-end">
                         <div class="d-flex border-end border-primary pe-3">
-                            <a class="btn p-0 text-primary me-3" href="https://instagram.com/elvenus__"><i class="fab fa-instagram"></i></a>
+                            <a class="btn p-0 text-primary me-3" href="https://instagram.com/herusaputra.89"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                 </div>
@@ -173,7 +173,7 @@ $conn->close();
                     </a>
                     <div class="d-flex flex-column ms-3">
                         <span>Instagram Kami</span>
-                        <a href="instagram.com/elvenus__"><span class="text-dark">@elvenus__</span></a>
+                        <a href="instagram.com/herusaputra.89"><span class="text-dark">@herusaputra.89</span></a>
                     </div>
                 </div>
             </nav>
@@ -305,13 +305,13 @@ $conn->close();
                 <div class="col-xl-6 wow fadeInLeft" data-wow-delay="0.2s">
                     <div class="about-item-content bg-white rounded p-5 h-100">
                         <h4 class="text-primary">Tentang Kami</h4>
-                        <h1 class="display-4 mb-4">Dua Belas Satu</h1>
-                        <p>Elvenus adalah nama kelas kami, MAN Sidoarjo yang terletak di Jl. Stadion No.02 Buduran. Kami adalah kelas yang terdiri dari individu-individu berbakat dan berdedikasi, yang berkomitmen untuk belajar dan berkembang bersama. Sebagai kelas yang berfokus pada pencapaian akademik dan pengembangan pribadi, kami berusaha menciptakan lingkungan belajar yang mendukung dan inspiratif.
+                        <h1 class="display-4 mb-4">UNSIA</h1>
+                        <p>Kami adalah mahasiswa yang terdiri dari individu-individu berbakat dan berdedikasi, yang berkomitmen untuk belajar dan berkembang bersama. Sebagai kelas yang berfokus pada pencapaian akademik dan pengembangan pribadi, kami berusaha menciptakan lingkungan belajar yang mendukung dan inspiratif.
                         </p>
                         <p class="text-dark"><i class="fa fa-check text-primary me-3"></i>Kreatif</p>
                         <p class="text-dark"><i class="fa fa-check text-primary me-3"></i>Kerja Keras</p>
                         <p class="text-dark mb-4"><i class="fa fa-check text-primary me-3"></i>Kolaboratif</p>
-                        <a class="btn btn-primary rounded-pill py-3 px-5" href="https://instagram.com/elvenus__">Informasi Selengkapnya</a>
+                        <a class="btn btn-primary rounded-pill py-3 px-5" href="https://instagram.com/herusaputra.89">Informasi Selengkapnya</a>
                     </div>
                 </div>
                 <div class="col-xl-6 wow fadeInRight" data-wow-delay="0.2s">
@@ -468,7 +468,7 @@ $conn->close();
                                     </a>
                                     <p class="text-white mb-4">Tujuan dari dibuatnya perpustakaan digital ini, kita bisa mencari buku yang kita inginkan dan untuk mendukung program literasi Madrasah. Dengan adanya website ini di harapkan dapat meningkatkan minat baca siswa.</p>
                                     <div class="footer-btn d-flex">
-                                        <a class="btn btn-md-square rounded-circle me-3" href="https://instagram.com/elvenus__"><i class="fab fa-instagram"></i></a>
+                                        <a class="btn btn-md-square rounded-circle me-3" href="https://instagram.com/herusaputra.89"><i class="fab fa-instagram"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -485,7 +485,7 @@ $conn->close();
                                             </div>
                                             <div>
                                                 <h4 class="text-white">Alamat</h4>
-                                                <p class="mb-0">Jalan Stadion No.2 Buduran, Sidoarjo</p>
+                                                <p class="mb-0">Jl. Ciputat Raya, Jakarta</p>
                                             </div>
                                         </div>
                                     </div>
