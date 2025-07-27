@@ -1,73 +1,37 @@
-# 📚 Lbrary - Sistem Perpustakaan Digital
+# PusDig - Perpustakaan Digital 📚🌐
 
-**Lbrary** adalah sebuah web perpustakaan digital yang memungkinkan pengguna membaca buku, mengunduh buku, dan mengelola profil. Website ini dibuat agar kegiatan membaca dan manajemen buku bisa dilakukan secara modern dan efisien.
+PusDig adalah aplikasi perpustakaan digital yang memungkinkan pengguna untuk mengakses berbagai koleksi buku, jurnal, artikel, dan berbagai bahan bacaan lainnya secara online. Dengan PusDig, pengguna dapat mencari, membaca, dan mengelola koleksi literatur tanpa perlu hadir secara fisik di perpustakaan. Aplikasi ini dibangun menggunakan PHP Native untuk memberikan performa yang cepat dan responsif.
 
----
+Fitur 🚀
+- Pencarian Cepat: Temukan buku atau artikel yang Anda cari dengan mudah menggunakan fitur pencarian yang efisien. 🔍
+- Manajemen Koleksi: Admin dapat menambah, mengedit, dan menghapus koleksi buku atau dokumen lainnya di perpustakaan digital. 📚
+- Pendaftaran Pengguna: Pengguna dapat mendaftar dan login untuk mengakses koleksi perpustakaan dan menyimpan buku yang mereka baca. 📝
+- Baca Online: Buku dan artikel dapat dibaca langsung melalui browser tanpa perlu mengunduh. 📖
+- Unduh Buku: Pengguna dapat mengunduh buku atau dokumen dalam format yang disediakan, seperti PDF. 📥
 
-## ✨ Fitur
+Cara Kerja 🛠️
+- Pengguna Mendaftar: Pengguna baru bisa mendaftar melalui halaman pendaftaran untuk membuat akun.
+- Pencarian Koleksi: Setelah login, pengguna dapat mencari koleksi buku menggunakan fitur pencarian yang sederhana.
+- Membaca atau Mengunduh: Pengguna dapat memilih untuk membaca buku secara online atau mengunduhnya ke perangkat mereka.
+- Manajemen Admin: Admin dapat menambah atau mengedit koleksi buku dan mengelola pengguna dari panel admin yang aman.
 
-### 👤 Fitur Pengguna
-- 📖 Baca buku langsung lewat PDF reader bawaan aplikasi.
-- ⬇️ Unduh buku dalam format PDF.
-- 🖼️ Edit profilmu dan tambahkan foto/avatar sendiri.
+Teknologi yang Digunakan 💻
+PusDig dibangun menggunakan:
+- PHP Native untuk backend, memanfaatkan PHP murni tanpa framework untuk memberikan kontrol penuh dan performa yang lebih baik. 🖥️
+  
+Instalasi 🔧
+- Clone Repository
+  Clone repositori ini ke server lokal atau hosting Anda.
+  `git clone https://github.com/username/pusdig.git`
 
-### 🛠️ Fitur Petugas
-- ➕ Tambah buku dan kategori buku baru.
-- ✏️ Edit data buku dan kategori.
-- ❌ Hapus buku dan kategori.
-- 🧑 Dapat melakukan semua fitur yang dimiliki pengguna.
+- Konfigurasi Database
+  Buat database MySQL baru dan impor file SQL yang ada di folder database/.
 
----
+- Sesuaikan pengaturan koneksi database di file `db_connection.php`.
 
-## 🐞 Bug & Kekurangan
+- Jalankan Aplikasi
+  Setelah mengkonfigurasi database, buka aplikasi di browser Anda. Aplikasi dapat dijalankan di server lokal seperti XAMPP, WAMP, atau di server hosting langsung.
 
-- 📱 Tampilan belum rapi dan tidak responsif di berbagai ukuran layar.
-- 🏠 Halaman landing belum selesai dan masih tampil seadanya.
-- 🖼️ Fitur avatar pada edit profil masih tidak bekerja dengan semestinya.
-- 🗑️ Fitur hapus buku tidak berfungsi.
-- 🔍 Fitur pencarian buku tidak berjalan dengan benar.
-- 🔐 Modal Login dan Register hanya berfungsi setelah halaman direfresh.
-- 🆕 Fungsi Register akun tidak berfungsi (akun baru tidak bisa dibuat oleh pengguna).
-
----
-
-## 🚀 Rencana Pengembangan dan Perbaikan Fitur
-
-1. **Desain yang Responsif dan Konsisten**  
-   Membuat layout lebih baik, konsisten, dan adaptif di perangkat desktop maupun mobile.
-
-2. **Perbaikan Avatar Petugas**  
-   Memastikan agar tampilan avatar pada edit profil bekerja dengan semestinya dan membuat fitur crop foto berfungsi.
-
-3. **Perbaikan Hapus Buku**  
-   Memperbaiki fungsi hapus agar bekerja sesuai harapan.
-
-4. **Redesain Landing Page**  
-   Membuat halaman awal lebih menarik dan informatif.
-
-5. **Komentar untuk Buku**  
-   Pengguna bisa meninggalkan komentar atau ulasan untuk tiap buku.
-
-7. **Toggle Theme**  
-   Menambah Toggle Theme agar pengguna bisa mengganti mode ke mode tampilan gelap atau tampilan terang.
-
-8. **Perbaikan Fitur Pencarian**  
-   Memastikan pencarian buku benar-benar menampilkan hasil yang sesuai.
-
-9. **Perbaikan Modal Login & Register**  
-   Modal bekerja langsung tanpa perlu refresh halaman.
-
-10. **Perbaikan Fungsi Register**  
-   Mendaftar akun baru harus bisa berhasil dan otomatis login jika perlu.
-
----
-
-## 📌 Catatan
-
-Project ini masih dalam tahap pengembangan aktif. Saran, kritik, kontribusi, atau ide pengembangan sangat dihargai!
-
----
-
-## 📄 Lisensi
-
-Project ini menggunakan [MIT License](LICENSE) — artinya kamu bebas memakai, mengubah, dan membagikan ulang kode ini, selama tetap mencantumkan nama pembuat asli.
+- Admin
+  Email : admin@gmail.com
+  Pass : admin
